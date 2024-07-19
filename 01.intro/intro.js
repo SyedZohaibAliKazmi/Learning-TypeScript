@@ -1,5 +1,5 @@
-var Name1 = "Syed Zohaib Ali Kazmi";
-console.log(Name1);
+var Name = "Syed Zohaib Ali Kazmi";
+console.log(Name);
 // let name = 95
 // console.log( name)
 var Username = "zohaib ali";

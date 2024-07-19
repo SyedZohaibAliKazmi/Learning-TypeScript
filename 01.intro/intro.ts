@@ -1,5 +1,5 @@
-let Name1 ="Syed Zohaib Ali Kazmi"
-console.log( Name1)
+let Name ="Syed Zohaib Ali Kazmi"
+console.log( Name)
 
 // let name = 95
 // console.log( name)
@@ -7,3 +7,6 @@ console.log( Name1)
  const Username2 =" kazmi"
  const Username3 =Username + Username2
  console.log( Username3)
+
+
+ 
